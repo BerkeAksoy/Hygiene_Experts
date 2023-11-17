@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: be6def2842fd92c458f3675fb6d72f9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinPrefab: {fileID: 8688934096835782939, guid: d7d5cd3313bb43848aa2f83997354829,
+      type: 3}
+  - dDPrefab: {fileID: 7591605752923649760, guid: 27d97f35b9431354995aed09c5071dee,
+      type: 3}
+  - dSPrefab: {fileID: 5947059801481865690, guid: 753d4882dbf444543b6eb399a1a949f2,
+      type: 3}
+  - hPPrefab: {fileID: 2520945896069258198, guid: d07f69701fa7a02418c64c0b5ae72926,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

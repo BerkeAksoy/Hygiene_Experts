@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f8b9bb2f2ab456b4295fa002acef2569
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selected: {fileID: -4907272853570934515, guid: 5cabf363ccde6644b879431135f8d213,
+      type: 3}
+  - notSelected: {fileID: -4907272853570934515, guid: 5cabf363ccde6644b879431135f8d213,
+      type: 3}
+  - locked: {fileID: -4907272853570934515, guid: 5cabf363ccde6644b879431135f8d213,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
